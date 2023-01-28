@@ -1,0 +1,2 @@
+import{A as t}from"./index.71e6bd6d.js";import"./index.de5f4725.js";import"./iframe.3f3351ff.js";import"./index.2b3b837c.js";import"./jsx-runtime.20a4ae06.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/dmeneres.png",alt:"Diogo Men\xE9res"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.910c75c0.js.map
